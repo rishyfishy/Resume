@@ -1,0 +1,208 @@
+{
+    "basics": {
+        "name": "Rishabh Garikiparithi",
+        "label": "Programmer",
+        "image": "",
+        "email": "rishabh.garikiparithi@mail.utoronto",
+        "phone": "(705) 890-2538",
+        "url": "https://rishabhgarikiparithi.wix.com/portfolio/portfolio",
+        "summary": "A Mechanical Engineering Student interested in getting into Software Engineering",
+        "location": {
+            "address": "57 Virgilwood Drive",
+            "postalCode": "M2R 2B5",
+            "city": "North York",
+            "countryCode": "Canada",
+            "region": "Ontario"
+        },
+        "profiles": [
+            {
+                "network": "Linkedin",
+                "username": "rishabh-g",
+                "url": "https://linkedin.com/in/rishabh-g/"
+            },
+            {
+                "network": "gitHub",
+                "username": "rishyfishy",
+                "url": "https://github.com/rishyfishy"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Honda of Canada Mfg.",
+            "position": "New Model Engineering Development Intern",
+            "url": "https://www.hondacanadamfg.ca",
+            "startDate": "2021-05-03",
+            "highlights": [
+                "Utilized  SQL and XQuery to extract vehicle electronic test data in XML, and generate a data visualization dashboard for production associates, reducing $100,000/year of downtime.",
+                "Researched emerging technologies, analyzed use cases, and led engineering discussions for the launch of a real-time locating system to locate in-house inventory vehicles, estimated to provide returns of over $250,000/year.",
+                "Automated the generation of daily part defect reports using Python, enabling optimal delegation of resources in the Parts Quality department, and saving 150+ hours/year.",
+                "Developed a vision system using Cognex Insight Explorer to detect engine assembly lubricant on camshaft journals as a demonstration of collaborative robots in production applications safely working alongside humans."
+            ]
+        },
+        {
+            "name": "UofT Human Powered Vehicles Design Team",
+            "position": "Co-Captain",
+            "url": "https://www.hpvdt.ca",
+            "startDate": "2019-09-10",
+            "highlights": [
+                "Led a 25 member team designing a human-powered propeller aircraft to fly a marathon in one hour with only human power, as well as a recumbent low-racer for the Michigan HPRA",
+                "Treated a tandem vehicle fairing surface for wind-tunnel testing and aerodynamic optimization at the Boundary Layer Wind Tunnel Laboratory, chasing the team’s previously set world speed record of 120.2 km/h. ",
+                "Directed sponsorship, recruitment, and training initiatives to foster positive team culture, and grow the team by 30%."
+            ]
+        },
+        {
+            "name": "VelocityVision",
+            "position": "Image Processing Lead ",
+            "url": "https://github.com/ericji1326/traffic-sign-image-recognition",
+            "startDate": "2020-09-03",
+            "endDate": "2020-12-23",
+            "highlights": [
+                "Created a convolutional neural network to classify traffic sign images using PyTorch and optimized hyperparameters to improve performance, resulting in a test accuracy of 97%.",
+                "Built an image augmentation pipeline to transform images (normalization, noise variation, etc.), reducing overfitting and improving model performance by 16%."
+            ]
+        },
+        {
+            "name": "Counterweight Patio Umbrella",
+            "position": "Lead Developer",
+            "url": "https://github.com/rishyfishy/PatioUmbrella",
+            "startDate": "2020-10-05",
+            "endDate": "2020-12-12",
+            "highlights": [
+                "Developed a kinematic simulation of a patio umbrella linkage mechanism using MATLAB. ",
+                "Numerically demonstrated using vector analysis techniques that the use of counterweights allowed for a full range of motion with a low input force for people with limited mobility and physical strength."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University of Toronto",
+            "url": "https://www.utoronto.ca",
+            "area": "Mechanical Engineering, Minor in Robotics, Certificate in AI",
+            "studyType": "Bachelor of Science",
+            "startDate": "2018-09-01",
+            "endDate": "2023-04-30",
+            "score": "3.71",
+            "courses": [
+                "Intro to AI",
+                "Data structures and Algorithms",
+                "Numerical Methods",
+                "Python Programming",
+                "Statistics"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Deans List (all semesters)",
+            "date": "2021-04-30",
+            "awarder": "University of Toronto",
+            "summary": "Awarded to students with a full-time course load with a weighted term average of 79.5% or higher"
+        },
+        {
+            "title": "Shell Engineering Scholarship",
+            "date": "2020-08-11",
+            "awarder": "Shell"
+        },
+        {
+            "title": "J.A. Findlay Scholarship",
+            "date": "2020-08-11",
+            "awarder": "University of Toronto"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certified Solidworks Professional (CSWP)",
+            "date": "2020-05-11",
+            "issuer": "Dassault Systemes",
+            "url": "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-KXJRQTYCV5"
+        },
+        {
+            "name": "Certified Solidworks Professional - Advanced Surfacing (CSWPA)",
+            "date": "2020-12-31",
+            "issuer": "Dassault Systemes",
+            "url": "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-BFELZNTAGC"
+        }
+    ],
+
+    "skills": [
+        {
+            "name": "Programming",
+            "keywords": [
+                "Python",
+                "Flask",
+                "C++",
+                "SQL",
+                "JavaScript",
+                "TypeScript",
+                "HTML",
+                "CSS",
+                "Git",
+                "VBA",
+                "Cognex Insight (Computer Vision)",
+                "XML and XQuery"
+            ]
+        },
+        {
+            "name": "CAD",
+            "keywords": [
+                "SolidWorks (CAM, FEA, composites simulation, topology optimization, mold design)",
+                "CATIA V5",
+                "ANSYS",
+                "Fusion 360",
+                "Autodesk Inventor",
+                "NX",
+                "AutoCAD",
+                "FreeCAD"
+            ]
+        },
+        {
+            "name": "Data/ML",
+            "keywords": [
+                "Data processing and Neural Networks in PyTorch",
+                "SciPy",
+                "Pandas",
+                "NumPy",
+                "MATLAB",
+                "Minitab"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "French",
+            "fluency": "Intermediate"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Intermediate"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Carpentry"
+        },
+        {
+            "name": "3D-Printing and Digital Manufacturing"
+        },
+        {
+            "name": "Open-Source Software"
+        },
+        {
+            "name": "Advanced Mathematics"
+        },
+        {
+            "name": "Cycling"
+        },
+        {
+            "name": "Rock Climbing"
+        },
+        {
+            "name": "Environmentalism"
+        }
+    ]
+}
